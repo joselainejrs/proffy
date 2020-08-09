@@ -6,48 +6,54 @@
 Developed in one of Rocketseat's online classes
 </h4>
 
- <h2>Installation</h2>
+<h2>Installation</h2>
 
 <h4> Web </h4>
 ```
-<p>$ npm create react-app web --template typescript </p>
+$ npm create react-app web --template typescript
 ```
-# Run the application
-```
-<p>$ npm start</p>
-```
+
+<h4>Run the application </h4>
+
+```$ npm start```
 
 <h4> server </h4>
 ```
-<p>$ cd backend </p>
-<p>$ npm init -y </p>
+$ cd backend 
+$ npm init -y
 ```
 
-# Installing depencies
+<h4>  Installing depencies </h4>
 ```
-<p>$ npm add typescript -D </p>
-<p>$ npm add ts-node-dev -D</p>
-<p>$ npm install knex</p>
-<p>$ npm install sqlite3</p>
+$ npm add typescript -D
+$ npm add ts-node-dev -D
+$ npm install knex
+$ npm install sqlite3
 
 ```
+
+<h4> # Run the application </h4>
 ```
-# Run the application
-<p>$ npm start </p>
+$ npm start 
 ```
 
-```
+
 # Mobile
-<p>$ cd app </p>
 ```
+$ cd app
 $ expo init app
+```
 
-
-# Installing all fonts used
+<h4> Installing all fonts used </h4>
+```
 $ expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
+```
 
-# Run the application
+<h4> # Run the application </h4>
+
+```
 $ npm start
 ```
+
 ![Imagem]()
 
