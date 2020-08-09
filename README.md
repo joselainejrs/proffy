@@ -6,52 +6,56 @@
 Developed in one of Rocketseat's online classes
 </h4>
 
-<h2>Installation</h2>
-
-<h4> Web </h4>
-```
+## Installation
+``````
+### Web
+```ps
 $ npm create react-app web --template typescript
 ```
 
-<h4>Run the application </h4>
-
-```$ npm start```
-
-<h4> server </h4>
+#### Run the application
+```ps
+$ npm start
 ```
+
+<!-- VARS -->
+
+### Server
+```ps
 $ cd backend 
 $ npm init -y
 ```
 
-<h4>  Installing depencies </h4>
-```
+#### Installing depencies
+
+```ps
 $ npm add typescript -D
 $ npm add ts-node-dev -D
 $ npm install knex
 $ npm install sqlite3
-
 ```
 
-<h4> # Run the application </h4>
-```
+#### Run the application 
+```ps
 $ npm start 
 ```
 
+<!-- VARS -->
 
-# Mobile
-```
+####  Mobile  
+```ps
 $ cd app
 $ expo init app
 ```
 
-<h4> Installing all fonts used </h4>
-```
+#### Installing all fonts used </h4>
+```ps
 $ expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
 ```
 
 <h4> # Run the application </h4>
 
-```
+```ps
 $ npm start
 ```
 
