@@ -62,5 +62,5 @@ $ npm start
 Joselaine Romão Soares
 </h4>
 
-![Imagem]()
+![Imagem](https://github.com/joselainejrs/proffy/blob/master/web/src/assets/doc/assets/2modelom.png)
 
