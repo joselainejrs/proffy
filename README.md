@@ -58,9 +58,10 @@ $ expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
 ```
 $ npm start
 ```
-<h4 align="center">
-Joselaine Romão Soares
-</h4>
 
 ![Imagem](https://github.com/joselainejrs/proffy/blob/master/web/src/assets/doc/assets/2modelom.png)
+
+<h4 align="center">
+Projeto desenvolvido por: Joselaine Romão Soares
+</h4>
 
