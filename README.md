@@ -62,6 +62,6 @@ $ npm start
 ![Imagem](https://github.com/joselainejrs/proffy/blob/master/web/src/assets/doc/assets/2modelom.png)
 
 <h4 align="center">
-Projeto desenvolvido por: Joselaine Romão Soares
+Project developed by: Joselaine Romão Soares
 </h4>
 
